@@ -149,26 +149,22 @@ skopeo inspect docker://registry.access.redhat.com/ubi9/ubi:latest
 - `docker://` prefix tells skopeo to use the Docker registry protocol — required even for Red Hat registries.
 
 ---
-
 ## ➡️ Next Lab
-
-**[Lab 22-1e: Pull ubi9 image with podman](./lab-22-1e-podman-pull.md)**
+**[Lab 22-1e: Pull ubi9 image with podman](https://github.com/kelvintechnical/Pull-ubi9-Image-with-podman)**
 
 ---
 
 ## 🔗 Series Index
-
-- ✅ [Lab 22-1a: Create conadm user](./lab-22-1a-create-conadm.md)
-- ✅ [Lab 22-1b: Grant sudo rights](./lab-22-1b-sudo-conadm.md)
-- ✅ [Lab 22-1c: Verify sudo access](./lab-22-1c-verify-sudo.md)
+- ✅ [Lab 22-1a: Create conadm user](https://github.com/kelvintechnical/Create-User-Account-Conadm)
+- ✅ [Lab 22-1b: Grant sudo rights](https://github.com/kelvintechnical/Grant-Conadm-Full-Rights)
+- ✅ [Lab 22-1c: Verify sudo access](https://github.com/kelvintechnical/Verify-Sudo-Access-Conadm)
 - 👉 **Lab 22-1d: Inspect ubi9 with skopeo** ← you are here
-- [Lab 22-1e: Pull ubi9 image](./lab-22-1e-podman-pull.md)
-- [Lab 22-1f: Launch container with port mapping](./lab-22-1f-launch-container.md)
-- [Lab 22-1g: Run commands inside container](./lab-22-1g-container-commands.md)
-- [Lab 22-1h: Verify port mapping from host](./lab-22-1h-verify-port.md)
+- [Lab 22-1e: Pull ubi9 image](https://github.com/kelvintechnical/Pull-ubi9-Image-with-podman)
+- [Lab 22-1f: Launch container with port mapping](https://github.com/kelvintechnical/launch-container-interative-terminal)
+- [Lab 22-1g: Run commands inside container](https://github.com/kelvintechnical/run-commands-inside-terminal)
+- [Lab 22-1h: Verify port mapping from host](https://github.com/kelvintechnical/verify-port-mapping-from-host)
 
 ---
-
 ## 👤 Author
 
 **Kelvin R. Tobias**  
